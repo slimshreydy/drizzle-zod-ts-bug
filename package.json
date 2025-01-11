@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "drizzle-orm": "^0.36.4",
+    "drizzle-zod": "^0.6.1"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.3"
+  }
+}
